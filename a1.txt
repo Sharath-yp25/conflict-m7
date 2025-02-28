@@ -1,2 +1,6 @@
 a1
+
 a1 modified in master again
+=======
+a1 modified in first
+>>>>>>> first
